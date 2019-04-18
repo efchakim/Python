@@ -1,4 +1,7 @@
-
+#This program simulates the code-breaking game Mastermind. 
+#This program checks the players guess against the initial for random numbers between 1-6. 
+#Enter four guesses from 1-6, example: 1234.
+#By: Diana Hakim
 
 def GenCode():
     'generate four random numbers in a list'
